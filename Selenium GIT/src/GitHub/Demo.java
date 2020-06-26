@@ -9,5 +9,6 @@ public static void main(String[] args) {
 	System.out.println("RukeshIngole");
 	System.out.println("Armani");
 	System.out.println("Ralph Lauren");
+	System.out.println("Allen Solly");
 }	
 }
